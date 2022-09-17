@@ -1,7 +1,5 @@
 # API_English_School
 
-# API REST 
-
 ## Introdução
 
 Esse projeto foi desenvolvido durante o Curso da Alura de Node.js. Se trata de uma API que agenda atendimentos e serviços em um PetShop.
